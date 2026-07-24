@@ -91,38 +91,93 @@ El objetivo fue diseñar e implementar una interfaz moderna que facilite el acce
 
 ```
 pagina-educativa/
+│   .gitignore
+│   appinventor.html
+│   index.html
+│   Informe_Final_B193.html
+│   portafolio.html
+│   prompts.html
+│   README.md
+│   Reflexion_Diseno_Digital.docx
+│   scratch.html
 │
-├── index.html              # Página principal
-├── assets/
-│   ├── css/
-│   │   └── styles.css      # Estilos globales
-│   ├── js/
-│   │   └── main.js         # Lógica e interactividad
-│   └── img/                # Recursos gráficos
+├───assets
+│   ├───audio
+│   │       Brujula.mp3
+│   │       CRUD+LOGIN.mp3
+│   │       PrimeraApp.mp3
+│   │
+│   ├───css
+│   │   │   main.css
+│   │   │
+│   │   ├───abstracts
+│   │   │       animations.css
+│   │   │       typography.css
+│   │   │       variables.css
+│   │   │
+│   │   ├───base
+│   │   │       globals.css
+│   │   │       reset.css
+│   │   │       utilities.css
+│   │   │
+│   │   ├───components
+│   │   │       audio-player.css
+│   │   │       buttons.css
+│   │   │       cards.css
+│   │   │       lightbox.css
+│   │   │       modal.css
+│   │   │       phone-mockup.css
+│   │   │
+│   │   ├───layout
+│   │   │       footer.css
+│   │   │       hero.css
+│   │   │       navbar.css
+│   │   │
+│   │   ├───pages
+│   │   │       appinventor.css
+│   │   │       home.css
+│   │   │       portfolio.css
+│   │   │       prompts.css
+│   │   │       scratch.css
+│   │   │
+│   │   └───themes
+│   │           darkmode.css
+│   │
+│   ├───images
+│   │       brujula.png
+│   │       crud.png
+│   │       Imagen1.png
+│   │       miprimera.png
+│   │
+│   └───js
+│       ├───core
+│       │       app.js
+│       │       config.js
+│       │
+│       ├───modules
+│       │       animations.js
+│       │       cursor.js
+│       │       lightbox.js
+│       │       scratch-player.js
+│       │
+│       ├───pages
+│       │       portfolio-data.js
+│       │       portfolio.js
+│       │
+│       └───utils
+│               helpers.js
+│               observer.js
 │
-└── README.md
-```
+└───downloads
+    └───appinventor
+            Brujula.aia
+            Brujula.apk
+            CRUD_Login.aia
+            CRUD_Login.apk
+            MiPrimeraApp.aia
+            MiPrimeraApp.apk
 
-> ⚠️ Actualiza esta estructura si tu proyecto tiene más archivos o carpetas.
 
----
-
-## ⚙️ Cómo ejecutarlo localmente
-
-No se requiere instalación de dependencias. Solo sigue estos pasos:
-
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/felipeamayapp21/pagina-educativa.git
-
-# 2. Entra a la carpeta del proyecto
-cd pagina-educativa
-
-# 3. Abre el archivo principal en tu navegador
-# Opción A — Doble clic en index.html
-# Opción B — Con VS Code y la extensión Live Server:
-code .
-# Luego clic derecho en index.html → "Open with Live Server"
 ```
 
 ---
@@ -171,6 +226,7 @@ Este proyecto fue desarrollado con fines académicos en el marco del programa de
 
 <div align="center">
 
-Hecho con 💻 + ☕ en Bucaramanga, Colombia 🇨🇴
+Hecho con 💻 + ☕ en Bucaramanga, Colombia 🇨🇴  
+🎓 Proyecto académico — Universidad Tecnológica de Santander (UTS)
 
 </div>
