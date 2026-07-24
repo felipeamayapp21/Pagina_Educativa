@@ -16,25 +16,39 @@ https://paginaeducativa2026-5lbk4f7jh-felipeamaya0612-5552s-projects.vercel.app/
 - 🧩 Estructura de código organizada y escalable.
 - 🌐 Compatible con los principales navegadores.
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías y herramientas utilizadas
 
+### Desarrollo web
 - HTML5
 - CSS3
 - JavaScript
-- Vercel (Deploy)
 
-## 📂 Estructura del proyecto
+### Programación
+- MIT App Inventor (programación por bloques)
+- Scratch (desarrollo con programación visual)
 
-```text
-📦 pagina-educativa
-├── index.html
-├── css/
-├── js/
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-```
+### Diseño y presentaciones
+- Gamma (creación de presentaciones)
+- Canva (diseño gráfico y recursos visuales)
+
+### Edición multimedia
+- CapCut (edición de video)
+- Gemini (generación de imágenes con IA)
+
+### Inteligencia Artificial
+- Claude (apoyo en diseño y desarrollo)
+- OpenCode (apoyo en la lógica de programación)
+- ChatGPT (asistencia técnica y creación de prompts)
+- Gemini (generación de imágenes)
+- Tyles (optimización de prompts y eliminación de muletillas)
+
+### Despliegue
+- Vercel (hosting y despliegue del proyecto)
+
+### Herramientas de desarrollo
+- Git
+- GitHub
+- Visual Studio Code
 
 ## 🎯 Objetivo
 
